@@ -6,7 +6,7 @@ Visualizing Data with Leaflet
 
 The United States Geological Survey is responsible for providing scientific data about natural hazards, the health of our ecosystems and environment; and the impacts of climate and land-use change.
 
- Developed a new visualization based on earthquake data to provide a meaningful way of displaying it. 
+ Developed a new visualization based on earthquake data to provide a meaningful way of displaying it
 
 
 ### Basic Visualization
